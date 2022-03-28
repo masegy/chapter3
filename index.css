@@ -262,12 +262,4 @@ html {
 .footer-section hr {
   margin: 0 20px;
 }
-
-.footer-section .social-media {
-  opacity: 1;
-}
-
-.footer-section .social-media .hover-twitch:hover {
-  fill: purple;
-}
 /*# sourceMappingURL=index.css.map */
